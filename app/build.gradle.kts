@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.hopeapps.stock_control_app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.hopeapps.stock_control_app"
